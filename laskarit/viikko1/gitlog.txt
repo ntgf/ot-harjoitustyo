@@ -1,0 +1,121 @@
+commit 8a0ccefd0ac50328557201a020d58012590e4868
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 22:27:53 2021 +0200
+
+    uudelleen nimetty file2 file22
+
+ tiedostoja/{file2 => file22} | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 6c3de4f89f3438ff1720f3a0db18be5132cf3fd6
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 22:27:14 2021 +0200
+
+    poistettu  file1
+
+ tiedostoja/file1 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 070bd426f273c4984bf519b8452795c7475b6174
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 22:16:13 2021 +0200
+
+    lis tied
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d1d12028fbba402a42635a5bebd9ffc4ece6c37a
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 22:02:21 2021 +0200
+
+    muutoksia eka ja kolmas
+
+ eka.txt    | 8 ++++++--
+ kolmas.txt | 6 +++++-
+ 2 files changed, 11 insertions(+), 3 deletions(-)
+
+commit fe480ea33947863648b24eac1b9a45f724068f0b
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:57:14 2021 +0200
+
+    uudelleen nimetty tiedosto.txt eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9cdf1f8c697e3f33e8e10e4d1b56a2f5fdae4732
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:54:31 2021 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit eecc6ca8e07646b2c9cc7f66c36b931ecf1245ce
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:47:49 2021 +0200
+
+    muokattu tiedosto.txt
+
+ tiedosto.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+commit a732143641ab503af540a740df5ae7ee3e448654
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:46:29 2021 +0200
+
+    muokattu tiedosto.txt
+
+ tiedosto.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+
+commit b191be8188b2cd3b5b676d0e113f0286bd9e5a52
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:29:58 2021 +0200
+
+    lisatty hakemisto stuff tiedoistoineen
+
+ stuff/stufftiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit a1a68542dcd70d15f3e43da4aa3aabfc21285925
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:24:22 2021 +0200
+
+    muokattu toinen.txt ja kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 0055fb6f2878b3044542c273fa8a7eac5b985d88
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:22:13 2021 +0200
+
+    lisatty kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c0fae78d07dc443a98bdca5ff37c948de421991b
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 21:06:35 2021 +0200
+
+    muutos ja lisays
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit c9300ee013d4c287a9131181c24e5ecb563c94f1
+Author: rn123 <ingitfil@gmail.com>
+Date:   Sun Nov 7 20:49:43 2021 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
