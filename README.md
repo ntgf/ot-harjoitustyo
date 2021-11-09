@@ -1,3 +1,8 @@
-## Otsikko
-
-ja viela **lihavoitua** seka *kursivoitua* tekstia!
+#### Ohjelmistotekniikka, harjoitustyö
+--------------------------------------
+## Tehtävät
+--------------------------------------
+# Viikko 1
+--------------------------------------
+[gitlog.txt](https://github.com/ntgf/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/ntgf/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
