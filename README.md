@@ -15,4 +15,4 @@
 
 [tyoaikakirjanpito.md](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
-[vaatimusmaarittely.md](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/vaatimusmaarittely.md)
+[maarittelydokumentti.md](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
