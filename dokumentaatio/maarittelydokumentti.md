@@ -3,6 +3,7 @@
 ## Sovelluksen tarkoitus
 
 Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pelata tietokonetta vastaan.
+
 --------------------
 ## Käyttäjät
 
