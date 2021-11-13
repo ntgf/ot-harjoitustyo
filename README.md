@@ -12,3 +12,5 @@
 ### Viikko 2
 
 [kattavuusraportti.png](https://github.com/ntgf/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuusraportti.png)
+[tyoaikakirjanpito.md](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
+[vaatimusmaarittely.md](https://github.com/mluukkai/OtmTodoApp/blob/master/dokumentaatio/vaatimusmaarittely.md)
