@@ -11,4 +11,4 @@
 --------------------------------------
 ### Viikko 2
 
-[kattavuusraportti.png] (https://github.com/ntgf/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuusraportti.png)
+[kattavuusraportti.png](https://github.com/ntgf/ot-harjoitustyo/blob/master/laskarit/viikko2/kattavuusraportti.png)
