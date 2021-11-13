@@ -20,7 +20,7 @@ Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
 ---------------------
 ## Jatkotoiminnallisuus
 
-Normaalikäyttäjä:
+**Normaalikäyttäjä:**
 
 *Kirjautuminen*
 - Käyttäjä voi poistaa tunnuksensa
@@ -41,12 +41,12 @@ Normaalikäyttäjä:
        - Voitot/tappiot.
        - Nopeimmin voitetut pelit, esimerkiksi siirtojen lukumäärän tai käytetyn ajan suhteen.
        - Top-henkilökohtaiset tai kaikkien pelaajien pistetulokset kutakin vaikeustasoa tai kenttää kohden.
+- Viestikenttä:
+   - Käyttäjä voi jättää kullekin pelikentälle viestejä, joita muut käyttäjät voivat lukea ja myöhemmin vastata. 
        
-Ylläpitokäyttäjä:
+**Ylläpitokäyttäjä:**
     - Pystyy tarkastelemaan tilastoja sovelluksen käytöstä.
     - Pystyy poistamaan käyttäjän tunnuksen.  
     - Voi rajoittaa käyttäjän kirjautumista palveluun.
     - Pystyy siistimään tuloslistoja sekä viestikenttiä.
     
-Viestikenttä
-- Käyttäjä voi jättää viestejä kullekin pelikentälle, joita muut käyttäjät voivat lukea ja myöhemmin vastata. 
