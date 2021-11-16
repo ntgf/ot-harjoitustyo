@@ -46,8 +46,8 @@ Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
        
 **Ylläpitokäyttäjä:**
 
-    - Pystyy tarkastelemaan tilastoja sovelluksen käytöstä.
-    - Pystyy poistamaan käyttäjän tunnuksen.  
-    - Voi rajoittaa käyttäjän kirjautumista palveluun.
-    - Pystyy siistimään tuloslistoja sekä viestikenttiä.
+- Pystyy tarkastelemaan tilastoja sovelluksen käytöstä.
+- Pystyy poistamaan käyttäjän tunnuksen.  
+- Voi rajoittaa käyttäjän kirjautumista palveluun.
+- Pystyy siistimään tuloslistoja sekä viestikenttiä.
     
