@@ -45,6 +45,7 @@ Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
    - Käyttäjä voi jättää kullekin pelikentälle viestejä, joita muut käyttäjät voivat lukea ja myöhemmin vastata. 
        
 **Ylläpitokäyttäjä:**
+
     - Pystyy tarkastelemaan tilastoja sovelluksen käytöstä.
     - Pystyy poistamaan käyttäjän tunnuksen.  
     - Voi rajoittaa käyttäjän kirjautumista palveluun.
