@@ -2,9 +2,11 @@
 Sovelluksen avulla käyttäjän on mahdollista pelata ristinollaa tietokonetta vastaan.
 
 ## Dokumentaatio
-[tyoaikakirjanpito.md](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
+[Työaikakirjanpito](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
-[maarittelydokumentti.md](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
+[Vaatimusmäärittely](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
+
+[Kattavuusraportti](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Kattavuusraportti.png)
 
 ## Releaset
 ### Versio 1 (Viikko 3)
