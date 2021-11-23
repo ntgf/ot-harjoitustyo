@@ -1,1 +1,3 @@
 Vankilasta ja Aloitusruudusta lahtenyt vahingossa yhteys Toiminto-luokkaan, vaikka nama yhteydet tulisivat olla Pelilautaan.
+
+Pelaajalla oliomuuttuja rahamaara.
