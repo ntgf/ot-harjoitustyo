@@ -11,6 +11,7 @@ Sovelluksen avulla käyttäjän on mahdollista pelata ristinollaa tietokonetta v
 
 - Käyttäjä pystyy pelaamaan tietokonetta vastaan 3x3 ruudulla.
 - Käyttäjä pystyy valitsemaan kumpaa pelaa: X vai O.
+- Toteutettu tekstikäyttöliittymä.
 
 - Toteutettu yksi testi viikon 3 vaatimusten mukaan.
 - Sovellukselle generoitavissa testikattavuusraportti.
