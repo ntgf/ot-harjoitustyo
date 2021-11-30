@@ -13,10 +13,10 @@ Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
 ---------------------
 ## Perustoiminnallisuus
 
-- Ainoastaan normaalikäyttäjä.
-- Käyttäjä pystyy luomaan itselleen tunnuksen ja kirjautumaan sovellukseen.
-- Käyttäjä pystyy pelaamaan tietokonetta vastaan 3x3 ruudulla.
-- Käyttäjä voi kirjautua ulos sovelluksesta.
+- Ainoastaan normaalikäyttäjä. [x]
+- Käyttäjä pystyy luomaan itselleen tunnuksen ja kirjautumaan sovellukseen. [x]
+- Käyttäjä pystyy pelaamaan tietokonetta vastaan 3x3 ruudulla. [x]
+- Käyttäjä voi kirjautua ulos sovelluksesta. [x]
 ---------------------
 ## Jatkotoiminnallisuus
 
