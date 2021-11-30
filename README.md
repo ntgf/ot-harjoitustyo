@@ -8,6 +8,8 @@ Sovelluksen avulla käyttäjän on mahdollista pelata ristinollaa tietokonetta v
 
 [Kattavuusraportti](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Kattavuusraportti.png)
 
+[Arkkitehtuuri] (https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuuriluonnos.jpg)
+
 ## Releaset
 ### Versio 1 (Viikko 3)
 
