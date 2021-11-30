@@ -23,5 +23,6 @@ Sovelluksen avulla käyttäjän on mahdollista pelata ristinollaa tietokonetta v
 ### Versio 2 (Viikko 4)
 
 [Ohjelma}https://github.com/ntgf/ot-harjoitustyo/tree/master/RistinollaVko4
+
 [Huomioita]https://github.com/ntgf/ot-harjoitustyo/blob/master/RistinollaVko4/huomioita.txt
 
