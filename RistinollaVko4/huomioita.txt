@@ -21,3 +21,4 @@ Testit
 Hieman epaselvyytta, tulisiko dao-luokkia myos testata.
 Testattu domainia, jossa rivikattavuus 22%.
 
+Alustavaan luokkakaavioon on toteutettu tahan asti toteutetut luokat ja niiden suhteet tai suunnitellut suhteet.
