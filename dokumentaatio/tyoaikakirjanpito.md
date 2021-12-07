@@ -9,4 +9,6 @@
 24.11|1h|Harjoitustyo, viikko 4, suunnittelu
 25.11|2h|Harjoitustyo, viikko 4, suunnittelu ja materiaalien opiskelu
 30.11|4h|Harjoitustyo, viikko 4, harjoitustyo ja harjoitustyotehtavien tekeminen
-Total|12.5h|
+6.12|8h|Harjoitustyö, viikko 5
+7.12|5h|Harjoitustyö, viikko 5
+Total|25.5h|
