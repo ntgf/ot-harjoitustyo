@@ -6,9 +6,9 @@ Sovelluksen avulla käyttäjän on mahdollista pelata ristinollaa tietokonetta v
 
 [Vaatimusmäärittely](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
 
-[Kattavuusraportti](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Kattavuusraportti.png)
-
 [Arkkitehtuuri](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuuriluonnos.jpg)
+
+[Sekvenssikaavio](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Sekvenssikaavio%2C%20olemassaolevan%20k%C3%A4ytt%C3%A4j%C3%A4n%20sis%C3%A4%C3%A4nkirjutuminen.jpg)
 
 ## Releaset
 ### Versio 1 (Viikko 3)
