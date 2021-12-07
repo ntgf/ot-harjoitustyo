@@ -23,3 +23,12 @@ Ohjelman ja testien toiminta edellyttää tiedostoja:
 - config.properties alkukonfiguraatioita varten.
 
 Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
+
+## Komentorivikomennot
+
+- Testaus: “mvn test”
+- Testikattavuusraportin luonti: “mvn jacoco:report”
+  - Löytyy avaamalla tiedoston target/site/jacoco/index.html selaimessa.
+- jar-tiedoston luonti: “mvn package"
+- Checkstyle-raportti: “mvn jar:jxr checkstyle:checkstyle”
+  - Löytyy avaamalla tiedoston target/site/checkstyle.html selaimessa.
