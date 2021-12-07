@@ -29,5 +29,5 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
   - Löytyy avaamalla tiedoston target/site/jacoco/index.html selaimessa.
 - jar-tiedoston luonti: “mvn package"
   - Edellyttää testien onnistumista ja tiedostoa usersTest.txt
-- Checkstyle-raportti: “mvn jar:jxr checkstyle:checkstyle”
+- Checkstyle-raportti: “mvn jxr:jxr checkstyle:checkstyle”
   - Löytyy avaamalla tiedoston target/site/checkstyle.html selaimessa.
