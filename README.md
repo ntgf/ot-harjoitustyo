@@ -26,3 +26,14 @@ Sovelluksen avulla käyttäjän on mahdollista pelata ristinollaa tietokonetta v
 
 [Huomioita](https://github.com/ntgf/ot-harjoitustyo/blob/master/RistinollaVko4/huomioita.txt)
 
+### Versio 3 (Viikko 5)
+
+[Release](https://github.com/ntgf/ot-harjoitustyo/releases/tag/viikko5)
+
+Ohjelman ja testien toiminta edellyttää tiedostoja:
+
+- users.txt (tulisi generoitua automaattisesti)
+- usersTest.txt testien toimimista varten
+- config.properties alkukonfiguraatioita varten.
+
+Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
