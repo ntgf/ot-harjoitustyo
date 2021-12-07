@@ -8,8 +8,8 @@ Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pela
 ## Käyttäjät
 
 Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
-  1) Normaalikäyttäjä
-  2) Ylläpitokäyttäjä
+- [x] 1) Normaalikäyttäjä
+2) Ylläpitokäyttäjä
 ---------------------
 ## Perustoiminnallisuus
 
@@ -35,10 +35,10 @@ Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
    - Helppo, medium, vaikea.
    
 *Lisätoimintoja*
-- Käyttäjä voi tarkastella pelihistoriaansa:
+- [x] Käyttäjä voi tarkastella pelihistoriaansa:
    - Kokonaispeliaika tai peliaika pelikenttää kohden.
-   - Pelikenttä ja vaikeustaso kohtaisia tuloksia:
-       - Voitot/tappiot.
+   - [x] Pelikenttä ja vaikeustaso kohtaisia tuloksia:
+       - [x] Voitot/tappiot.
        - Nopeimmin voitetut pelit, esimerkiksi siirtojen lukumäärän tai käytetyn ajan suhteen.
        - Top-henkilökohtaiset tai kaikkien pelaajien pistetulokset kutakin vaikeustasoa tai kenttää kohden.
 - Viestikenttä:
