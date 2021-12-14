@@ -42,6 +42,8 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
 
 ## Viikko 6
 
-[Release 6[https://github.com/ntgf/ot-harjoitustyo/releases/tag/Viikko6.1]
+[Release 6](https://github.com/ntgf/ot-harjoitustyo/releases/tag/Viikko6.1)
 
 Ohjelma kansiossa otm-todoapp-master22
+
+[Huomioita](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/viikko6.txt)
