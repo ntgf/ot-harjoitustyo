@@ -1,0 +1,5 @@
+- Teknisiävaikeuksia javafx:n kanssa, jota en saanut toimimaan.
+
+- Käytetty tästä syystä esimerkkiprojektin projektipohjaa, johon kirjoitettu ohjelma.
+
+- Ohjelman koodi löytyy tictactoe-pakkauksista lukuunottamatta käyttöliittymää, joka löytyy pakkauksesta todo.ui.
