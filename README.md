@@ -39,3 +39,9 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
   - Edellyttää testien onnistumista ja tiedostoa usersTest.txt
 - Checkstyle-raportti: “mvn jxr:jxr checkstyle:checkstyle”
   - Löytyy avaamalla tiedoston target/site/checkstyle.html selaimessa.
+
+## Viikko 6
+
+[Release 6[https://github.com/ntgf/ot-harjoitustyo/releases/tag/Viikko6.1]
+
+Ohjelma kansiossa otm-todoapp-master22
