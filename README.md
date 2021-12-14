@@ -6,7 +6,15 @@ Sovelluksen avulla käyttäjän on mahdollista luoda tunnus, kirjautua järjeste
 
 [Vaatimusmäärittely](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
 
-[Arkkitehtuuri](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
+[Arkkitehtuuriluonnos1](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
+
+[Arkkitehtuurikuvaus(1)](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuurikuvaus1.jpg)
+
+[Arkkitehtuurikuvaus(2)](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuurikuvaus2.jpg)
+
+[Arkkitehtuurikuvaus(3)](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuurikuvaus3.jpg)
+
+[Kayttoohje](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Kayttoohje.jpg)
 
 ## Releaset
 
