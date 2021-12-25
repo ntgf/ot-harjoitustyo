@@ -1,5 +1,5 @@
 # TicTacToeApp
-Sovelluksen avulla käyttäjän on mahdollista luoda tunnus, kirjautua järjestelmään ja pelata ristinollaa tietokonetta vastaan.
+Sovelluksen avulla käyttäjän on mahdollista luoda tunnus, kirjautua järjestelmään ja pelata ristinollaa tai neljän suoraa tietokonetta vastaan.
 
 ## Dokumentaatio
 [Työaikakirjanpito](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
