@@ -26,7 +26,8 @@ Sovellus tarvitsee toimiakseen:
     - Pelinäkymiä on kaksi:
       - 3x3 Ristinolla
       - Neljän suora
-    - Pelinäkymiin siirrytään sisäänkirjautuneen näkymästä vastaavan pelin nimeä vastaavan napin painalluksella.
+    - Pelinäkymiin siirrytään sisäänkirjautuneen näkymästä pelin nimeä vastaavan napin painalluksella.
+    - Pelaaminen tapahtuu pelin mukaisesti sopivien ruutujen painalluksella.
   
 4) Vaikeustason ja aloitusvuoron valinnan näkymät
     - Siirtyminen sisäänkirjautuneen näkymastä pelinäkymään tapahtuu näiden näkymien kautta.
