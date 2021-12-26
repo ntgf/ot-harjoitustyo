@@ -64,6 +64,13 @@
 - Tietokannat on injektoitu luokille FileUserDao ja FileMessageDao konstruktorikutsujen yhteydessä.
 
 
+## Toiminnallisuuksia sekvenssikaavioin
+
+
+
+
+
+
 Ensimmäinen arkkitehtuuriluonnos:
 
 ![Arkkitehtuuriluonnos](https://user-images.githubusercontent.com/93884822/145096147-f6ad0e8c-2682-4eb5-bf38-e22615107981.jpg)
