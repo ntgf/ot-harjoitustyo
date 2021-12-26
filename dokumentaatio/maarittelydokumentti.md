@@ -46,7 +46,7 @@ Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pela
 *Lisätoimintoja*
 - Käyttäjä voi tarkastella pelihistoriaansa:
    - Kokonaispeliaika tai peliaika pelikenttää kohden.
-   - Pelikenttä ja vaikeustaso kohtaisia tuloksia:
+   - Pelikenttä- ja vaikeustasokohtaisia tuloksia:
        - Nopeimmin voitetut pelit, esimerkiksi siirtojen lukumäärän tai käytetyn ajan suhteen.
        - Top-henkilökohtaiset tai kaikkien pelaajien pistetulokset kutakin vaikeustasoa tai kenttää kohden.
 - Viestikenttä:
