@@ -29,11 +29,14 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
 
 ## Komentorivikomennot
 
+- jar-tiedoston luonti: “mvn package"
+  - Luonti edellyttää testien onnistumista ja tiedostoja config.properties, usersTest.db, messagesTest.db
+  - Luotu jar-tiedosto löytyy kansiosta target nimellä 'Tictactoe-1.0-SNAPSHOT.jar'
+  - jar-tiedoston voi ajaa komennolla java -jar Tictactoe-1.0-SNAPSHOT.jar
+    - jar-tiedoston ajaminen edellyttää tiedostojen config.properties, users.db ja messages.db löytymistä jar-tiedoston kanssa samasta hakemistosta.
 - Testaus: “mvn test”
 - Testikattavuusraportin luonti: “mvn jacoco:report”
   - Löytyy avaamalla tiedoston target/site/jacoco/index.html selaimessa.
-- jar-tiedoston luonti: “mvn package"
-  - Edellyttää testien onnistumista ja tiedostoa usersTest.txt
 - Checkstyle-raportti: “mvn jxr:jxr checkstyle:checkstyle”
   - Löytyy avaamalla tiedoston target/site/checkstyle.html selaimessa.
 - JavaDocin luonti: "mvn javadoc:javadoc"
