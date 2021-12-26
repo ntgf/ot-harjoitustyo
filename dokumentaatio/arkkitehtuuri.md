@@ -66,7 +66,7 @@
 - Tietokannat on injektoitu luokille FileUserDao ja FileMessageDao konstruktorikutsujen yhteydessä.
 
 
-## Toiminnallisuuksia sekvenssikaavioin
+## Sovelluksen keskeinen toiminnallisuus sekvenssikaaviona
 
 - Olemassa olevan käyttäjän sisäänkirjautuminen:
 
