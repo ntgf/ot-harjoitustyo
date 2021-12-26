@@ -31,3 +31,13 @@
 - Testattu myös käyttäjän antamia virhesyötteitä, joihin on laajasti varauduttu.
 
 ### Sovellukseen jääneet puutteet
+
+- Tällä hetkellä vaikeustasoilla 'easy' ja 'medium' ristinolla ai jättää joskus harvoin vuoron välistä.
+  - Tämä johtuu tekoälyn koodista, joka alunperin kehitetty mahdollisimman haastavaksi ja vaikeaa vaikeustasoa varten.
+  - Koodissa ei ole varauduttu siten "niin huonoihin" tilanteisiin, mihin helpommilla vaikeustasoilla saatetaan päästä, eli että tekoälyllä ei ole enää muita kuin huonoja vaihtoehtoja jäljellä.
+  - Tämä olisi helposti korjattavissa (mikäli aika riittää).
+
+- Lisäksi neljän suoran tekoälyn toiminta on suurimman osan aikaa kelvollista, mutta taipumuksena aloituksessa antaa vaihtelevalla todennäköisyydellä pelaajalle suoraan kolmen vapaan suoran aloituksessa ja voiton.
+- Tämäkin lienisi ajan kanssa korjattavissa.
+
+- Koska kurssin tarkoituksena kuin ei myö
