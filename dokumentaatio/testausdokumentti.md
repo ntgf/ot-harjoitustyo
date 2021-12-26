@@ -16,6 +16,8 @@
 
 ### Testauskattavuus
 
+<img width="982" alt="3" src="https://user-images.githubusercontent.com/93884822/147409906-932356bb-ea38-4a06-b6cf-c945a82d3c0e.png">
+
 - Testauksen rivikattavuus on 95% ja haaraumakattavuus 92%.
 
 - Tämä johtuu lähes yksinomaan tietokannan lukuun liittyvien poikkeuksien käsittelyyn liittyvistä koodinpätkistä, joita ei poikkeuksien puutteessa käydä läpi.
