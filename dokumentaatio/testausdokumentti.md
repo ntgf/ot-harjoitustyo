@@ -20,8 +20,14 @@
 
 - Tämä johtuu lähes yksinomaan tietokannan lukuun liittyvien poikkeuksien käsittelyyn liittyvistä koodinpätkistä, joita ei poikkeuksien puutteessa käydä läpi.
 
-Testattu luokkia niin yksikkötestein kuin suurempia kokonaisuuksia integraatiotestein.
+### Järjestelmätestit
 
-Tietokantojen testaamiseen käytetty erillisiä testitietokantoja usersTest.db ja messagesTest.db, jotka injektoitu config.properties tiedostossa olevien osoitteiden mukaan.
+- Testattu järjestelmää laajasti OSX- ja Linux-ympäristöissä.
+- Suoritettu testejä manuaalisesti.
+- Sovellus toimii käyttöohjeissa määriteltyjen tiedostojen kanssa.
+- Sovellus ei ole kertaakaan kaatunut testauksen aikana, eikä tulostanut tai antanut virheilmoituksia.
+- Sovellus ei ole muutenkaan jäätynyt tai bugaillut järjestelmätasolla.
+- Käyty kaikki toiminnallisuudet läpi.
+- Testattu myös käyttäjän antamia virhesyötteitä, joihin on laajasti varauduttu.
 
-Erityisesti TictactoeServicen toimintaa testattu laajasti.
+### Sovellukseen jääneet puutteet
