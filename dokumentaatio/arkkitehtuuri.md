@@ -66,9 +66,20 @@
 - Tietokannat on injektoitu luokille FileUserDao ja FileMessageDao konstruktorikutsujen yhteydessä.
 
 
-## Sekvenssikaavio sisäänkirjautumisesta
+## Toiminnallisuuksia sekvenssikaavioin
 
 - Olemassa olevan käyttäjän sisäänkirjautuminen:
 
-![11](https://user-images.githubusercontent.com/93884822/147408548-773fc554-5db7-4e9c-8bbd-2eed1d563784.jpg)
+![login](https://user-images.githubusercontent.com/93884822/147415404-f40f8e2a-3db2-4308-b9cb-b3957e592b07.jpg)
 
+- Uuden käyttäjän luominen:
+
+![createnewuser](https://user-images.githubusercontent.com/93884822/147415409-528c790b-f6c1-44cc-add8-b14812c26c18.jpg)
+
+- Peliruudun painaminen kesken pelin, kun tekoäly pelaa X:ää:
+
+![playbutton](https://user-images.githubusercontent.com/93884822/147415412-dcb88426-d9d2-4dad-bf9d-4c042eafa4be.jpg)
+
+- Pelaajan voittojen ja tappioiden haku pelitilastonäkymään:
+
+![gamescore](https://user-images.githubusercontent.com/93884822/147415415-9fa1aeae-725b-45f1-bdd7-2ceef8f83c26.jpg)
