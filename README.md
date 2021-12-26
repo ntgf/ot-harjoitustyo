@@ -36,6 +36,8 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
   - Edellyttää testien onnistumista ja tiedostoa usersTest.txt
 - Checkstyle-raportti: “mvn jxr:jxr checkstyle:checkstyle”
   - Löytyy avaamalla tiedoston target/site/checkstyle.html selaimessa.
+- JavaDocin luonti: "mvn javadoc:javadoc"
+  - Löytyy hakemistosta target/site/apidocs/
 
 ## Viikko 6
 
