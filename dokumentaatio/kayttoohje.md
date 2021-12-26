@@ -11,7 +11,20 @@ Sovellus tarvitsee toimiakseen:
   
 ### Ohjelman käynnistys
 
-- Ohjelman käynnistys tapahtuu komennolla: *java -jar todoapp.jar*
+Komentorivikomennot:
+
+- jar-tiedoston luonti: “mvn package"
+  - Luonti edellyttää testien onnistumista ja tiedostoja config.properties, usersTest.db, messagesTest.db
+  - Luotu jar-tiedosto löytyy kansiosta target nimellä 'Tictactoe-1.0-SNAPSHOT.jar'
+- jar-tiedoston voi ajaa komennolla java -jar Tictactoe-1.0-SNAPSHOT.jar
+  - jar-tiedoston ajaminen edellyttää tiedostojen config.properties, users.db ja messages.db löytymistä jar-tiedoston kanssa samasta hakemistosta.
+- Testaus: “mvn test”
+- Testikattavuusraportin luonti: “mvn jacoco:report”
+  - Löytyy avaamalla tiedoston target/site/jacoco/index.html selaimessa.
+- Checkstyle-raportti: “mvn jxr:jxr checkstyle:checkstyle”
+  - Löytyy avaamalla tiedoston target/site/checkstyle.html selaimessa.
+- JavaDocin luonti: "mvn javadoc:javadoc"
+  - Löytyy hakemistosta target/site/apidocs/
 
 ### Sovelluksen käyttö
 
