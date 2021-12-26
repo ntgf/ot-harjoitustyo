@@ -83,3 +83,9 @@
 - Pelaajan voittojen ja tappioiden haku pelitilastonäkymään:
 
 ![gamescore](https://user-images.githubusercontent.com/93884822/147415415-9fa1aeae-725b-45f1-bdd7-2ceef8f83c26.jpg)
+
+## Huomioitavaa
+
+- Checkstyle antaa virheilmoituksen tekoäly-luokkien ja boardChecker-luokkien koosta.
+- En ole kuitenkaan pilkkonut näitä tarkoituksella pienempiin osiin, sillä mielestäni tämä rikkoisi luokkien loogisen rakenteen ja single responsibility periaatetta.
+- Olen menetellyt vastaavalla tavalla myös muutaman metodin kohdalla.
