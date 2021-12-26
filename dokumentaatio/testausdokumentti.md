@@ -40,4 +40,4 @@
 - Lisäksi neljän suoran tekoälyn toiminta on suurimman osan aikaa kelvollista, mutta taipumuksena aloituksessa antaa vaihtelevalla todennäköisyydellä pelaajalle suoraan kolmen vapaan suoran aloituksessa ja voiton.
 - Tämäkin lienisi ajan kanssa korjattavissa.
 
-- Koska kurssin tarkoituksena kuin ei myö
+- Koska kurssin tarkoituksena kuin ei myöskään arvosteluperusteissa arvioida tekoälyä, eivät nämä liene ongelmia kurssin laajuuden ja määrittelyn puitteissa.
