@@ -34,7 +34,7 @@ Sovellus tarvitsee toimiakseen:
     - Pelaaja voi valita 'X' ja aloittavansa tai 'O' ja tietokoneen aloittavan.
   
 5) Pelitilastot-näkymä
-    - Siirryttävissä vastaavan napin painalluksella sisäänkirjautuneen näkymastä.
+    - Siirryttävissä vastaavan napin painalluksella sisäänkirjautuneen näkymästä.
     - Käyttäjä voi tarkastella kokonaisvoittoja ja -tappioitaan.
   
 6) Sosiaalinen ja viestinäkymä
