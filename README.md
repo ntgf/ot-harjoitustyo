@@ -64,4 +64,4 @@ Ohjelman ja testien toiminta edellyttää tiedostoja:
 
 Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
 
-Huomioita.
+[Loppurelease-huomioita](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/loppurelease-huomioita.txt)
