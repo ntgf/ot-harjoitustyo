@@ -1,5 +1,0 @@
-/**
- * Sovelluslogiikka 
- */
-
-package todoapp.domain;

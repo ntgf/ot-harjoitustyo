@@ -1,6 +1,0 @@
-
-/**
- * Käyttöliittymä 
- */
-
-package todoapp.ui;
