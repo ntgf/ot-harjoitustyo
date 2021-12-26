@@ -30,7 +30,7 @@ Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pela
 - Käyttäjä voi julkaista viestejä ja lukea muiden käyttäjien kirjoittamia viestejä.
 - Käyttäjä voi kirjautua ulos sovelluksesta.
 ---------------------
-## Jatkotoiminnallisuus
+## Jatkotoiminnallisuusmahdollisuuksia
 
 **Normaalikäyttäjä:**
 
@@ -41,21 +41,18 @@ Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pela
 - Käyttäjä voi vaihtaa salasanaansa.
 
 *Pelaaminen*
-- Pystyy valitsemaan pelikentän koon:
-   - 3x3, 5x5, iso.
-- Pystyy valitsemaan vaikeustason:
-   - Helppo, medium, vaikea.
+- Pystyy valitsemaan ristinollalle pelikentän koon.
    
 *Lisätoimintoja*
-- [x] Käyttäjä voi tarkastella pelihistoriaansa:
+- Käyttäjä voi tarkastella pelihistoriaansa:
    - Kokonaispeliaika tai peliaika pelikenttää kohden.
-   - [x] Pelikenttä ja vaikeustaso kohtaisia tuloksia:
-       - [x] Voitot/tappiot.
+   - Pelikenttä ja vaikeustaso kohtaisia tuloksia:
        - Nopeimmin voitetut pelit, esimerkiksi siirtojen lukumäärän tai käytetyn ajan suhteen.
        - Top-henkilökohtaiset tai kaikkien pelaajien pistetulokset kutakin vaikeustasoa tai kenttää kohden.
 - Viestikenttä:
-   - Käyttäjä voi jättää kullekin pelikentälle viestejä, joita muut käyttäjät voivat lukea ja myöhemmin vastata. 
-       
+   - Käyttäjä voi poistaa aiemmin kirjoittamiaan viestejä.
+   - Viestikentän toimintaa laajentaa, esim. interaktiotoiminnoin.
+
 **Ylläpitokäyttäjä:**
 
 - Pystyy tarkastelemaan tilastoja sovelluksen käytöstä.
