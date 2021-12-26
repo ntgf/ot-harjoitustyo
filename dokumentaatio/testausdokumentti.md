@@ -10,6 +10,10 @@
 
 - Testattu luokkia niin yksikkötestein kuin suurempia kokonaisuuksia integraatiotestein.
 
+- Testattu sekä hylkääviä, että hyväksyviä syötteitä.
+
+- Testattu niin normaalitilanteita kuin rajatilanteita.
+
 - Tietokantojen testaamiseen käytetty erillisiä testitietokantoja usersTest.db ja messagesTest.db, jotka injektoitu config.properties tiedostossa olevien osoitteiden mukaan.
 
 - Erityisesti TictactoeServicen toimintaa testattu laajasti.
