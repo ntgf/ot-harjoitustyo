@@ -13,20 +13,6 @@ Sovelluksen avulla käyttäjän on mahdollista luoda tunnus, kirjautua järjeste
 
 [Työaikakirjanpito](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
-## Releaset
-
-### Viikko 5
-
-[Release](https://github.com/ntgf/ot-harjoitustyo/releases/tag/viikko5)
-
-Ohjelman ja testien toiminta edellyttää tiedostoja:
-
-- users.txt (tulisi generoitua automaattisesti)
-- usersTest.txt testien toimimista varten
-- config.properties alkukonfiguraatioita varten.
-
-Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
-
 ## Komentorivikomennot
 
 - jar-tiedoston luonti: “mvn package"
@@ -42,6 +28,20 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
 - JavaDocin luonti: "mvn javadoc:javadoc"
   - Löytyy hakemistosta target/site/apidocs/
 
+## Releaset
+
+### Viikko 5
+
+[Release](https://github.com/ntgf/ot-harjoitustyo/releases/tag/viikko5)
+
+Ohjelman ja testien toiminta edellyttää tiedostoja:
+
+- users.txt (tulisi generoitua automaattisesti)
+- usersTest.txt testien toimimista varten
+- config.properties alkukonfiguraatioita varten.
+
+Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
+
 ## Viikko 6
 
 [Release 6](https://github.com/ntgf/ot-harjoitustyo/releases/tag/Viikko6.1)
@@ -49,3 +49,19 @@ Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
 Ohjelma kansiossa otm-todoapp-master22
 
 [Huomioita](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/viikko6.txt)
+
+## Viikko 7
+
+[Loppurelease](https://github.com/ntgf/ot-harjoitustyo/releases/tag/Loppurelease)
+
+Ohjelman ja testien toiminta edellyttää tiedostoja:
+
+- config.properties
+- users.db
+- messages.db
+- usersTest.db
+- messagesTest.db
+
+Kyseisten tiedostojen tulisi olla jar-tiedoston kanssa samassa hakemistossa.
+
+Huomioita.
