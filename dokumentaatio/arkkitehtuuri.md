@@ -72,6 +72,3 @@
 
 ![11](https://user-images.githubusercontent.com/93884822/147408548-773fc554-5db7-4e9c-8bbd-2eed1d563784.jpg)
 
-- Käyttäjän siirtyminen Pelitilastojen tarkasteluun:
-
-![12](https://user-images.githubusercontent.com/93884822/147408573-7fd21215-2336-41b9-bbe9-96157c4cbce2.jpg)
