@@ -47,6 +47,11 @@
 - Pelin tekoälyt vastaavat tietokoneen tekemistä siirroista ja pelilautojen käsittely on laskennan tehostamiseksi koodattu niihin String-tyyppisenä.
 
 
+- TictactoeService vastaa toiminnallaan kaikista sovelluksen käyttäjiin liittyvästä toiminnallisuudesta, kuten uuden käyttäjän luontiin, sisään- ja uloskirjautumiseen sekä käyttäjien viestitoimintaan liittyvästä toiminnallisuudesta.
+- TictactoeService hyödyntää DAO-suunnittelumallin mukaisesti luokkia FileUserDao ja FileMessageDao rajapintojen UserDao ja MessageDao välityksellä.
+- FileUserDao ja FileMessageDao -luokkien hyödyntämät tietokannat injektoidaan niiden konstruktorikutsujen yhteydessä erillisessä config.properties tiedostossa määritellyistä osoitteista.
+
+- Viimeisenä sovelluslogiikan luokkana User vastaa käyttäjien ilmentymistä.
 
 
 
