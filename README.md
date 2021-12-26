@@ -2,19 +2,16 @@
 Sovelluksen avulla käyttäjän on mahdollista luoda tunnus, kirjautua järjestelmään ja pelata ristinollaa tai neljän suoraa tietokonetta vastaan.
 
 ## Dokumentaatio
-[Työaikakirjanpito](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
+
+[Käyttöohje](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/kayttoohje.md)
 
 [Vaatimusmäärittely](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/maarittelydokumentti.md)
 
-[Arkkitehtuuriluonnos1](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
+[Arkkitehtuurikuvaus](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/arkkitehtuuri.md)
 
-[Arkkitehtuurikuvaus(1)](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuurikuvaus1.jpg)
+[Testausdokumentti](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/testausdokumentti.md)
 
-[Arkkitehtuurikuvaus(2)](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuurikuvaus2.jpg)
-
-[Arkkitehtuurikuvaus(3)](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Arkkitehtuurikuvaus3.jpg)
-
-[Kayttoohje](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/Kayttoohje.jpg)
+[Työaikakirjanpito](https://github.com/ntgf/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
 ## Releaset
 
