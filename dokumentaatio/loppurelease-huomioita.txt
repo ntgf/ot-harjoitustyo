@@ -4,6 +4,8 @@
 
 - Käyttöliittymän uudelleen nimeäminen tai muut ratkaisut eivät valitettavasti onnistuneet, joten lopullisessa releasissa tictactoe.ui pakkaus on nimellä todoapp.ui.
 
+- Vastaavasta syystä kaikki pakkaukset eivät ole yhden juuripakkauksen alla.
+
 - Mikäli ohjelman hakemistoon on jäänyt jotain referenssiohjelman tiedostoa, kyseessä EI ole plagiointi vaan en yksinkertaisesti ole voinut poistaa kaikkea riskeeraamatta ohjelman toimimista.
 
 - Ohjelmani ei käytä muuta kuin itse luomaani koodia ja tiedostoja.
