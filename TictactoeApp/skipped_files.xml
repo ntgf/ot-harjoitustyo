@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suppressions PUBLIC
+    "-//Puppy Crawl//DTD Suppressions 1.1//EN"
+    "http://www.puppycrawl.com/dtds/suppressions_1_1.dtd">
+
+<suppressions>
+    <suppress files="todoapp.ui.TodoUi.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.ChooseDifficultyScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.ChooseXorOScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.ConnectFourPlayScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.CreateNewUserScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.GamescoreScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.LoggedInScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.LoginScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.MessageScreen.java" checks="[a-zA-Z0-9]*"/>
+    <suppress files="todoapp.ui.PlayScreen.java" checks="[a-zA-Z0-9]*"/>
+    
+</suppressions>

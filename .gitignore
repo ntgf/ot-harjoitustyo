@@ -1,9 +1,6 @@
-/laskarit/viikko2/Unicafe/target
-Ristinolla/target
-RistinollaLAB/target
-RistinollaLAB2/target
-RistinollaVko4/target
-RistinollaVko5/target
-RistinollaVko5/nbproject
-RistinollaVko5/nbactions.xml
-RistinollaVko5/users.txt
+laskarit/viikko2/Unicafe/target/
+TictactoeApp/target
+TictactoeApp/users.db
+TictactoeApp/usersTest.db
+TictactoeApp/messages.db
+TictactoeApp/messagesTest.db
