@@ -54,7 +54,14 @@
 - Viimeisenä sovelluslogiikan luokkana User vastaa käyttäjien ilmentymistä.
 
 
+## Tietojen talletus
 
+- Käyttäjien tiedot on talletettu tietokantaan users.db
+  - Muodossa: id INTEGER PRIMARY KEY, username TEXT, name TEXT, wins INTEGER, losses INTEGER
+- Viestien tiedot on talletettu tietokantaan messages.db
+  - Muodossa: id INTEGER PRIMARY KEY, username TEXT, message TEXT, time TEXT
+- Tietokantoja hyödynnetään sovelluksessa niin tiedonlukuun, kirjoittamiseen, tiedon etsintään kuin päivittämiseen.
+- Tietokannat on injektoitu luokille FileUserDao ja FileMessageDao konstruktorikutsujen yhteydessä.
 
 
 Ensimmäinen arkkitehtuuriluonnos:
