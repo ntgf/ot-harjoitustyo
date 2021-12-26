@@ -2,21 +2,31 @@
 --------------------
 ## Sovelluksen tarkoitus
 
-Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pelata tietokonetta vastaan.
+Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pelata tietokonetta vastaan ristinollaa tai neljän suoraa.
 
 --------------------
 ## Käyttäjät
 
-Sovellukseen on tarkoitus luoda kahdenlaisia käyttäjiä:
-- [x] 1) Normaalikäyttäjä
-2) Ylläpitokäyttäjä
+1) Normaalikäyttäjä
+
+- Sovellukselle saatetaan, ainakin ohjelman kirjoittajan suuresta toiveesta, rakentaa lähitulevaisuudessa laajemmin oikeuksin varustettu ylläpitokäyttäjä.
 ---------------------
+## Käyttöliittymä
+
+- Sovellus koostuu monipuolisesti yhdeksästä eri näkymästä.
+- Tarkemmin käyttöliittymään voi tutustua sovelluksen käyttöohjeesta - tai kokeilemalla itse sovellusta!
+
 ## Perustoiminnallisuus
 
-- [x] Ainoastaan normaalikäyttäjä.
-- [x] Käyttäjä pystyy luomaan itselleen tunnuksen ja kirjautumaan sovellukseen.
-- [x] Käyttäjä pystyy pelaamaan tietokonetta vastaan 3x3 ruudulla.
-- [x] Käyttäjä voi kirjautua ulos sovelluksesta.
+- Normaalikäyttäjiä.
+- Käyttäjä pystyy luomaan itselleen tunnuksen ja kirjautumaan sovellukseen.
+- Käyttäjä pystyy pelaamaan tietokonetta vastaan ristinollaa 3x3 ruudulla.
+- Käyttäjä pystyy pelaamaan tietokonetta vastaan neljän suoraa 7x7 ruudulla.
+- Käyttäjä voi valita kolmesta vaikeustasosta: 'easy', 'medium', 'hard'.
+- Käyttäjä voi valita 'X' ja aloittavansa tai 'O' ja tietokoneen aloittavan.
+- Käyttäjä voi tarkastella kokonaispelihistoriaansa.
+- Käyttäjä voi julkaista viestejä ja lukea muiden käyttäjien kirjoittamia viestejä.
+- Käyttäjä voi kirjautua ulos sovelluksesta.
 ---------------------
 ## Jatkotoiminnallisuus
 
