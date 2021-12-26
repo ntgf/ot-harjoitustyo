@@ -7,6 +7,8 @@
 - tictactoe.domain:in luokat vastaavat sovelluslogiikasta.
 - tictactoe.dao:n luokat vastaavat DAO-suunnittelumallin mukaisesti tietojen tallennuksesta.
 
+![A066B211-8F79-44F8-A440-2D4BB992CFA4_L0_001](https://user-images.githubusercontent.com/93884822/147406498-03927e5b-9059-49c3-ad8e-ede6fbd8eba2.JPG)
+
 ## Käyttöliittymä
 
 - Käyttöliittymä koostuu yhdeksästä näkymästä, jotka jakautuvat seuraaviin:
