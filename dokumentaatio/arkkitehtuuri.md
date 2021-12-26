@@ -25,7 +25,7 @@
   - V) Ohjelman sosiaaliset toiminnot
     - 9) Käyttäjien viestialueen näkymä
 
-- Sovellus avautuu sisäänkirjautumisnäkymään, josta käyttäjällä on mahdollista siirtyä uuden käyttäjän luominäkymään ja takaisin.
+- Sovellus avautuu sisäänkirjautumisnäkymään, josta käyttäjällä on mahdollista siirtyä uuden käyttäjän luomisnäkymään ja takaisin.
 - Käyttöliittymän näkymien keskiössä on sisäänkirjautuneen näkymä, josta pelaajan on mahdollista siirtyä pelinäkymiin, pelitilastojen tarkasteluun tai viestinäkymään kuin myös kirjautua ulos.
 - Pelinäkymiin siirrytään sisäänkirjautuneen näkymästä peliä vastaavan napin painalluksella.
 - Pelivalinnan jälkeen siirrytään vaikeustason valintaan ja aloitusvuoron valintaan liittyvien näkymien jälkeen valittua peliä vastaavaan näkymään.
