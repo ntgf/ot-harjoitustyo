@@ -1,0 +1,12 @@
+- JavaFX:n ja tähän liittyvien teknisten vaikeuksien takia, lopullinen release ja ohjelma toteutettu kurssin referenssisovelluksen ohjelmapohjaan, mikä on ollut ainoa tapa saada JavaFX toimimaan.
+
+- Olen parhaani poistanut referenssisovelluksen dataa.
+
+- Käyttöliittymän uudelleen nimeäminen tai muut ratkaisut eivät valitettavasti onnistuneet, joten lopullisessa releasissa tictactoe.ui pakkaus on nimellä todoapp.ui.
+
+- Mikäli ohjelman hakemistoon on jäänyt jotain referenssiohjelman tiedostoa, kyseessä EI ole plagiointi vaan en yksinkertaisesti ole voinut poistaa kaikkea riskeeraamatta ohjelman toimimista.
+
+- Ohjelmani ei käytä muuta kuin itse luomaani koodia ja tiedostoja.
+
+
+- Kiitos!
