@@ -15,4 +15,15 @@
 10.12|5h|Harj.tyo, viikko 6, javafx
 12.12|9h|Harj.tyo, viikko 6, javafx
 14.12|4h|Harj.tyo, viikko 6, javafx
-Total|48.5h|
+15.12|5h|Harj.työ, javafx-haasteet, käyttöliittymä
+16.12|4h|Harj.työ, javafx-haasteet, käyttöliittymä
+18.12|4h|Harj.työ, javafx-haasteet, käyttöliittymä
+19.12|8h|Harj.työ, javafx-haasteet, käyttöliittymä
+20.12|8h|Harj.työ, javafx, käyttöliittymä, Connect Four -tekoäly, refaktrointi
+21.12|4h|Harj.työ, javafx, käyttöliittymä, Connect Four -tekoäly, refaktrointi
+22.12|4h|Harj.työ, tietokannat ja tietokantojen opiskelu
+23.12|4h|Harj.työ, koodin siistiminen, suunnittelu
+25.12|6h|Vapaan kokoisen ristinolla-pelikentän luonti ja tarvittavan tekoälyn
+25.12|3h|Loppujen testien ja dokumenttien kirjoittaminen
+26.12|6h|Harj.työn ja dokumenttien viimeistely
+Total|104.5h|
