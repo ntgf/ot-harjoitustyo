@@ -32,6 +32,24 @@
 - Pelaaja voi halutessaan luovuttaa ja siirtyä välittömästi takaisin sisäänkirjautuneen näkymään, tai pelata pelin loppuun ja valita tämän jälkeen uuden pelin tai poistumisen sisäänkirjautuneen näkymään väliltä.
 - Uuden pelin valinta ohjaa vaikeustason ja aloitusvuoron valinnan jälkeen uuteen peliin.
   
+## Sovelluslogiikka
+
+- Sovelluksessa on valittavana kaksi peliä, joissa käyttäjä voi pelata tietokonetta vastaan.
+  - 1) 3x3 ristinolla
+  - 2) neljän suora
+- Kummallakin pelillä on oma tekoälynsä TictactoeAI ja ConnectFourAI.
+  - 1) TictactoeAI on alpha-beta pruningiin perustuva tekoäly, joka käy tehokkaasti koko pelipuuta läpi luoden vahvan tekoälyn.
+  - 2) ConnectFourAI hyödyntää pelikentän kokoon nähden rajallisemman laskentavoiman seurauksena syvyysrajoitettua alpha-beta pruningia, jossa pelitilanteen arvo ei ole absoluuttinen vaan perustuu arvioon laudan arvosta.
+- Kumpikin tekoälyistä hyödyntää erillistä pelilaudan pelitilanteita arvioivaa luokkaa:
+  - 1) TictactoeAI -> BoardChecker
+  - 2) ConnectFourAI -> ConnectFourBoardChecker
+- Johtuen tekoälyjen eri toimintalogiikasta ja tarpeista on myös boardcheckereiden toiminta näitä vastaten erilaista.
+- Pelin tekoälyt vastaavat tietokoneen tekemistä siirroista ja pelilautojen käsittely on laskennan tehostamiseksi koodattu niihin String-tyyppisenä.
+
+
+
+
+
 
 
 Ensimmäinen arkkitehtuuriluonnos:
