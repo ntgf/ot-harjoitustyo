@@ -16,7 +16,7 @@ Ristinolla-sovellus, jonka avulla käyttäjä voi kirjautua sovellukseen ja pela
 - Sovellus koostuu monipuolisesti yhdeksästä eri näkymästä.
 - Sovellus avautuu sisäänkirjautumisnäkymään, josta voi siirtyä uuden käyttäjän luomisnäkymään tai sisäänkirjautuneen näkymään.
 - Sisäänkirjautuneen näkymästä voi siirtyä pelinäkymiin, tarkastelemaan pelihistoriaa tai sosiaaliseen viestinäkymään.
-- Tarkemmin käyttöliittymään voi tutustua sovelluksen käyttöohjeesta - tai kokeilemalla itse sovellusta!
+- Siirtyminen pelinäkymiin tapahtuu vaikeustason valinnan ja aloitusvuoron valinnasta vastaavien näkymien kautta.
 
 ## Perustoiminnallisuus
 
